@@ -1,4 +1,4 @@
-package com.jhost.template.Template.bean;
+package com.jhost.data.bean;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

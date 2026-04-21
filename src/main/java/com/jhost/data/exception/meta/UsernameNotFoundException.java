@@ -1,6 +1,6 @@
-package com.jhost.template.Template.exception.meta;
+package com.jhost.data.exception.meta;
 
-import com.jhost.template.Template.exception.BaseException;
+import com.jhost.data.exception.BaseException;
 
 public class UsernameNotFoundException extends BaseException {
 

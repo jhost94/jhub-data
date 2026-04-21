@@ -1,4 +1,4 @@
-package com.jhost.template.Template;
+package com.jhost.data;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

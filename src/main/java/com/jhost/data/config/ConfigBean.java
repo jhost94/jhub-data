@@ -1,6 +1,6 @@
-package com.jhost.template.Template.config;
+package com.jhost.data.config;
 
-import com.jhost.template.Template.bean.ApplicationEnvironment;
+import com.jhost.data.bean.ApplicationEnvironment;
 import lombok.Getter;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.Configuration;

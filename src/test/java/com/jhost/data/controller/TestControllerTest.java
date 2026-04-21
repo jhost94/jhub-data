@@ -1,4 +1,4 @@
-package com.jhost.template.Template.controller;
+package com.jhost.data.controller;
 
 import com.jhost.template.Template.service.TestService;
 import org.junit.jupiter.api.BeforeEach;

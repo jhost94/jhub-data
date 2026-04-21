@@ -1,4 +1,4 @@
-package com.jhost.template.Template.exception;
+package com.jhost.data.exception;
 
 public class BaseException extends RuntimeException {
 

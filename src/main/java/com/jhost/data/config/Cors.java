@@ -1,4 +1,4 @@
-package com.jhost.template.Template.config;
+package com.jhost.data.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;

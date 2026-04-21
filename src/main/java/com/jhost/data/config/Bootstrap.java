@@ -1,6 +1,6 @@
-package com.jhost.template.Template.config;
+package com.jhost.data.config;
 
-import com.jhost.template.Template.bean.ApplicationEnvironment;
+import com.jhost.data.bean.ApplicationEnvironment;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Configuration;
 

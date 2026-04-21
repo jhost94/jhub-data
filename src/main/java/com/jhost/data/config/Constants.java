@@ -1,4 +1,4 @@
-package com.jhost.template.Template.config;
+package com.jhost.data.config;
 
 import java.util.Base64;
 

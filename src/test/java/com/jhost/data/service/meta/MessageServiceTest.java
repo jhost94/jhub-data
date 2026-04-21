@@ -1,6 +1,6 @@
-package com.jhost.template.Template.service.meta;
+package com.jhost.data.service.meta;
 
-import com.jhost.template.Template.config.Constants;
+import com.jhost.data.config.Constants;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mock;
@@ -9,7 +9,6 @@ import org.springframework.context.MessageSource;
 
 import java.util.Locale;
 
-import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.Mockito.when;
 
 class MessageServiceTest {
