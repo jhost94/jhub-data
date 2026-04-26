@@ -1,6 +1,6 @@
-package com.jhost.data.config;
+package center.jhub.data.config;
 
-import com.jhost.data.bean.ApplicationEnvironment;
+import center.jhub.data.bean.ApplicationEnvironment;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Configuration;
 

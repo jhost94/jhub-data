@@ -1,6 +1,6 @@
-package com.jhost.data.service.meta;
+package center.jhub.data.service.meta;
 
-import com.jhost.data.config.Constants;
+import center.jhub.data.config.Constants;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mock;

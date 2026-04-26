@@ -1,4 +1,4 @@
-package com.jhost.data.bean;
+package center.jhub.data.bean;
 
 public enum ApplicationEnvironment {
     NONE,

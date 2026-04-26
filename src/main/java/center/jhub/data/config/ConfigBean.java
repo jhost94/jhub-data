@@ -1,6 +1,6 @@
-package com.jhost.data.config;
+package center.jhub.data.config;
 
-import com.jhost.data.bean.ApplicationEnvironment;
+import center.jhub.data.bean.ApplicationEnvironment;
 import lombok.Getter;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.Configuration;

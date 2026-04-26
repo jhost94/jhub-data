@@ -1,4 +1,4 @@
-package com.jhost.data.config;
+package center.jhub.data.config;
 
 import java.util.Base64;
 

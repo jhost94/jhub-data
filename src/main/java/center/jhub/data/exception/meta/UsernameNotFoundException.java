@@ -1,6 +1,6 @@
-package com.jhost.data.exception.meta;
+package center.jhub.data.exception.meta;
 
-import com.jhost.data.exception.BaseException;
+import center.jhub.data.exception.BaseException;
 
 public class UsernameNotFoundException extends BaseException {
 

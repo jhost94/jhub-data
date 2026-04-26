@@ -1,4 +1,4 @@
-package com.jhost.data;
+package center.jhub.data;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

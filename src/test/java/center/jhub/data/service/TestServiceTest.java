@@ -1,6 +1,6 @@
-package com.jhost.data.service;
+package center.jhub.data.service;
 
-import com.jhost.data.config.Constants;
+import center.jhub.data.config.Constants;
 import com.jhost.template.Template.service.meta.MessageService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

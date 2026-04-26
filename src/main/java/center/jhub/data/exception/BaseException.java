@@ -1,4 +1,4 @@
-package com.jhost.data.exception;
+package center.jhub.data.exception;
 
 public class BaseException extends RuntimeException {
 
