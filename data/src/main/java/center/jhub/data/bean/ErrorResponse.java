@@ -21,5 +21,4 @@ public class ErrorResponse {
         this.contentPath = webRequest.getContextPath();
         this.description = webRequest.getDescription(includeClientInfo);
     }
-
 }

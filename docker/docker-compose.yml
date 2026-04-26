@@ -1,0 +1,11 @@
+
+
+services:
+  sample-db:
+    build:
+      context: .
+      dockerfile: data/Dockerfile
+    volumes:
+      - ./volumes/data:/home/postgres/pgdata/data
+    ports:
+      - "5432:5432"
