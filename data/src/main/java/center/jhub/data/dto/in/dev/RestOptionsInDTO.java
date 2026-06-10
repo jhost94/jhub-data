@@ -11,7 +11,6 @@ public class RestOptionsInDTO {
     public static final String JSON_TYPE_PROPERTY = "__jh_type";
     public static final String JSON_MAX_PROPERTY = "__jh_max";
     public static final String JSON_MIN_PROPERTY = "__jh_min";
-    public static final String JSON_LIST_PROPERTY = "__jh_list";
     public static final String JSON_VALUE_PROPERTY = "__jh_value";
     public static final String JSON_CAN_BE_NEGATIVE_PROPERTY = "__jh_can_be_negative";
 
