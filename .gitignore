@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+ssh_key
+ssh_key.pub
