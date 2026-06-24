@@ -4,7 +4,7 @@
 
 	<groupId>center.jhub</groupId>
 	<artifactId>parent</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.1.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>JHub Parent</name>
 	<description>Parent POM for all JHub</description>
@@ -24,7 +24,7 @@
 		<jackson.databind.version>2.21.3</jackson.databind.version>
 
 		<jhub.data.version>0.0.1-SNAPSHOT</jhub.data.version>
-		<jhub.utils.version>0.0.1-SNAPSHOT</jhub.utils.version>
+		<jhub.utils.version>0.0.2-SNAPSHOT</jhub.utils.version>
 	</properties>
 
 	<repositories>
